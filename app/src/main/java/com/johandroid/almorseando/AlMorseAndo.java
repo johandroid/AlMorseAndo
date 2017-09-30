@@ -1,8 +1,14 @@
+package com.johandroid.almorseando;
+
 import android.inputmethodservice.InputMethodService;
 import android.inputmethodservice.Keyboard;
 import android.inputmethodservice.KeyboardView;
 import android.media.AudioManager;
+import android.view.KeyEvent;
 import android.view.View;
+import android.view.inputmethod.InputConnection;
+
+import com.johandroid.almorseando.R;
 
 public class AlMorseAndo extends InputMethodService
         implements KeyboardView.OnKeyboardActionListener{
