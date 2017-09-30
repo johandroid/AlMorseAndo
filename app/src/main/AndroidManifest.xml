@@ -19,6 +19,5 @@
                 <action android:name="android.view.InputMethod" />
             </intent-filter>
         </service>
-
     </application>
 </manifest>
