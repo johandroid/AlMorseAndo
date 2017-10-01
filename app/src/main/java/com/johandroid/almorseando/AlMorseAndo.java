@@ -21,7 +21,6 @@ public class AlMorseAndo extends InputMethodService
 
     @Override
     public void onKey(int primaryCode, int[] keyCodes) {
-        Log.v("Teclado", "LOL");
         InputConnection ic = getCurrentInputConnection();
         playClick(primaryCode);
         switch(primaryCode){
