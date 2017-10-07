@@ -1,0 +1,7 @@
+#Sun Oct 01 19:34:32 CEST 2017
+base.0=/home/johandroid/Documentos/Osita/AlMorseAndo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c71c7207e47678862a711c33ee099ed3a9c1fe6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/johandroid/Documentos/Osita/AlMorseAndo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8b6eee3ed81dcc55ac08786abe70ee721707116e/classes.dex
+base.1=/home/johandroid/Documentos/Osita/AlMorseAndo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8b6eee3ed81dcc55ac08786abe70ee721707116e
+file.0=/home/johandroid/Documentos/Osita/AlMorseAndo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c71c7207e47678862a711c33ee099ed3a9c1fe6/classes.dex

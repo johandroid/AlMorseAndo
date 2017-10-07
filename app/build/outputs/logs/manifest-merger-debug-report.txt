@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:1:1-23:12
+	package
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/johandroid/.android/build-cache/a00c93e2732c5c8ed270af92b38745f8e1de11ca/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/johandroid/.android/build-cache/80c8783a1b650a9a6643967b567f47b41b2d2ef6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/johandroid/.android/build-cache/f6bf2f9145e21702dbf24ec4f8d278ee59110b4a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/johandroid/.android/build-cache/3a84db78a6cc34f2baa638b5839cf7d7b31680ed/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/johandroid/.android/build-cache/b62e15ab6a4576f87b8a83dbde944e8cfa8824c3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/johandroid/.android/build-cache/5b3e505c07e8eef5a8af3f4d86f13d7d1506e5d0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/johandroid/.android/build-cache/4f7f2f8713e9b303f73228e07cb52f380b6afdde/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/johandroid/.android/build-cache/f84ff68b7f32c253f33899eb3d7143dbf74e220f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/johandroid/.android/build-cache/23c2700ba4e560dbb1eea84afe563379c3da778d/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:11:9-40
+service#com.johandroid.almorseando.AlMorseAndo
+ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:13:9-21:19
+	android:label
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:14:13-45
+	android:permission
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:15:13-70
+	android:name
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:13:18-45
+meta-data#android.view.im
+ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:17:13-90
+	android:resource
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:17:55-88
+	android:name
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:17:24-54
+intent-filter#android.view.InputMethod
+ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:18:13-20:29
+action#android.view.InputMethod
+ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:19:17-67
+	android:name
+		ADDED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml:19:25-64
+uses-sdk
+INJECTED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/johandroid/.android/build-cache/a00c93e2732c5c8ed270af92b38745f8e1de11ca/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/johandroid/.android/build-cache/80c8783a1b650a9a6643967b567f47b41b2d2ef6/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/johandroid/.android/build-cache/f6bf2f9145e21702dbf24ec4f8d278ee59110b4a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/johandroid/.android/build-cache/3a84db78a6cc34f2baa638b5839cf7d7b31680ed/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/johandroid/.android/build-cache/b62e15ab6a4576f87b8a83dbde944e8cfa8824c3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/johandroid/.android/build-cache/5b3e505c07e8eef5a8af3f4d86f13d7d1506e5d0/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/johandroid/.android/build-cache/4f7f2f8713e9b303f73228e07cb52f380b6afdde/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/johandroid/.android/build-cache/f84ff68b7f32c253f33899eb3d7143dbf74e220f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/johandroid/.android/build-cache/23c2700ba4e560dbb1eea84afe563379c3da778d/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/johandroid/.android/build-cache/a00c93e2732c5c8ed270af92b38745f8e1de11ca/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/johandroid/Documentos/Osita/AlMorseAndo/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/johandroid/.android/build-cache/a00c93e2732c5c8ed270af92b38745f8e1de11ca/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/johandroid/.android/build-cache/80c8783a1b650a9a6643967b567f47b41b2d2ef6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/johandroid/.android/build-cache/f6bf2f9145e21702dbf24ec4f8d278ee59110b4a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/johandroid/.android/build-cache/3a84db78a6cc34f2baa638b5839cf7d7b31680ed/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/johandroid/.android/build-cache/b62e15ab6a4576f87b8a83dbde944e8cfa8824c3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/johandroid/.android/build-cache/5b3e505c07e8eef5a8af3f4d86f13d7d1506e5d0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/johandroid/.android/build-cache/4f7f2f8713e9b303f73228e07cb52f380b6afdde/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/johandroid/.android/build-cache/f84ff68b7f32c253f33899eb3d7143dbf74e220f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/johandroid/.android/build-cache/23c2700ba4e560dbb1eea84afe563379c3da778d/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/johandroid/.android/build-cache/a00c93e2732c5c8ed270af92b38745f8e1de11ca/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/johandroid/.android/build-cache/a00c93e2732c5c8ed270af92b38745f8e1de11ca/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/johandroid/Documentos/Osita/AlMorseAndo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/johandroid/.android/build-cache/a00c93e2732c5c8ed270af92b38745f8e1de11ca/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/johandroid/Documentos/Osita/AlMorseAndo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/johandroid/.android/build-cache/a00c93e2732c5c8ed270af92b38745f8e1de11ca/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/johandroid/Documentos/Osita/AlMorseAndo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/johandroid/.android/build-cache/a00c93e2732c5c8ed270af92b38745f8e1de11ca/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/johandroid/Documentos/Osita/AlMorseAndo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/johandroid/.android/build-cache/a00c93e2732c5c8ed270af92b38745f8e1de11ca/output/res/layout-v21/notification_action.xml"
+    }
+]
